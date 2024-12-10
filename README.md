@@ -4,7 +4,7 @@
 
 Highly motivated Data Scientist with a strong foundation in Mathematics, Statistics, and Computer Programming. Seeking an entry level role involving Programming, Machine Learning, and Artificial Intelligence to leverage my project experience and continue developing my expertise in the field. 
 
-
+Cybersecurity and graphic design are complementary interests that enhance my data science skills proven beneficial in data science by aiding in data protection and visualization..
 
 # Projects
 ### Data Analytics
