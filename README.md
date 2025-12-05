@@ -14,5 +14,9 @@ Cybersecurity and graphic design are complementary interests that enhance my dat
 - [Forage BCG GenAI](https://github.com/git-elton-s/Forage-BCG-GenAI)
 - [Zomato Analysis](https://github.com/git-elton-s/Zomato-Analysis)
 
-### Machine Learning & AI
+### Data Science, Machine Learning & AI
+- [Titanic Survival Prediction: Comprehensive EDA](https://github.com/git-elton-s/Titanic_Datasete-EDA)
+- [Netflix Content Analysis: Comprehensive EDA](https://github.com/git-elton-s/Netflix_Content_Analysis-EDA)
+- [House Price Prediction: Comprehensive Regression Pipeline](https://github.com/git-elton-s/House_Price_Prediction-Regression)
+- [Heart Disease Prediction: Classification Summary](https://github.com/git-elton-s/Heart_Disease_Prediction-Classification)
 - [Movie Recommendation Website](https://movie-recommendation-jznjdabwtfpoepj6qurefy.streamlit.app/)
